@@ -1,6 +1,6 @@
 # Workshop: SELFIES and the future of molecular string representations
 
-## This is the repository for the SELFIES applications tutorial for the [[Workshop]](https://accelerationconsortium.substack.com/p/selfies-workshop-aug-13)
+#### This is the repository for the SELFIES applications tutorial for the [[Workshop]](https://accelerationconsortium.substack.com/p/selfies-workshop-aug-13)
 
 Presented by: \
 Alán Aspuru-Guzik, Akshat Nigam, Robert Pollice, Gabe Gomes, Chong Sun, Mario Krenn, Kjell Jorner
