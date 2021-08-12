@@ -7,7 +7,7 @@ Alán Aspuru-Guzik, Akshat Nigam, Robert Pollice, Gabe Gomes, Chong Sun, Mario K
 In partnership with:  IOP Publishing's Machine Learning: Science & Technology journal and the Acceleration Consortium (AC)
 
 
-<img src="https://github.com/aspuru-guzik-group/selfies/blob/master/examples/VAE_LS_Validity.png?raw=True" width="550" />
+<img src="https://github.com/aspuru-guzik-group/selfies/blob/master/examples/VAE_LS_Validity.png?raw=True" width="750" />
 
 
 Article: \
