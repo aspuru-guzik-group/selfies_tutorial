@@ -10,10 +10,15 @@ In partnership with:  IOP Publishing's Machine Learning: Science & Technology jo
 <img src="https://github.com/aspuru-guzik-group/selfies/blob/master/examples/VAE_LS_Validity.png?raw=True" width="750" />
 
 
-Article: \
-*Krenn, Mario, et al. "Self-Referencing Embedded Strings (SELFIES): A 100% robust molecular string representation." Machine Learning: Science and Technology 1.4 (2020): 045024.* \
-[[SELFIES on Github]](https://github.com/aspuru-guzik-group/selfies)
-
+References: 
+1. *Krenn, Mario, et al. "Self-Referencing Embedded Strings (SELFIES): A 100% robust molecular string representation." Machine Learning: Science and Technology 1.4 (2020): 045024.* \
+   [[SELFIES on Github]](https://github.com/aspuru-guzik-group/selfies)
+2. Nigam, AkshatKumar, et al. "Beyond generative models: superfast traversal, optimization, novelty, exploration and discovery (STONED) algorithm for molecules using SELFIES." Chemical science (2021).* \
+   [[STONED-SELFIES on Github]](https://github.com/aspuru-guzik-group/stoned-selfies)
+3. *Nigam, AkshatKumar, Robert Pollice, and Alan Aspuru-Guzik. "JANUS: Parallel Tempered Genetic Algorithm Guided by Deep Neural Networks for Inverse Molecular Design." arXiv preprint arXiv:2106.04011 (2021).* \
+   [[JANUS on Github]](https://github.com/aspuru-guzik-group/JANUS)
+4. *Voršilák, Milan, et al. "SYBA: Bayesian estimation of synthetic accessibility of organic compounds." Journal of cheminformatics 12 (2020): 1-13.* \
+   [[SYBA on Github]](https://github.com/lich-uct/syba)
 
 ## Prerequisites: 
 Before running the code, please ensure you have the following:
